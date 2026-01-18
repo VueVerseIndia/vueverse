@@ -1,4 +1,4 @@
-# 🌍 VueVerse Open Source
+# VueVerse Open Source
 
 **VueVerse Open Source** is a community-driven initiative under **VueVerse**, focused on building, sharing, and maintaining open-source projects around **Vue.js and its ecosystem**.
 
@@ -6,7 +6,7 @@ This repository is a place where developers—beginners to experts—can **learn
 
 ---
 
-## 🚀 Why VueVerse Open Source?
+## Why VueVerse Open Source?
 
 - Make Vue.js learning **free and accessible**
 - Encourage **real-world open-source contributions**
@@ -17,7 +17,7 @@ We believe **community-led open source** is the best way to grow the Vue ecosyst
 
 ---
 
-## 🧩 What You’ll Find Here
+## What You’ll Find Here
 
 🔹 Vue.js examples & mini-projects  
 🔹 Reusable components & utilities  
@@ -29,7 +29,7 @@ We believe **community-led open source** is the best way to grow the Vue ecosyst
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Vue.js (Vue 3)
 - Vite
@@ -38,8 +38,6 @@ We believe **community-led open source** is the best way to grow the Vue ecosyst
 - TypeScript (where applicable)
 
 ---
-
-## 🤝 How to Contribute
 
 We ❤️ contributors!
 
@@ -54,7 +52,7 @@ We ❤️ contributors!
 
 ---
 
-## 🧑‍💻 Who Can Contribute?
+## Who Can Contribute?
 
 - Beginners learning Vue.js
 - Frontend developers
@@ -65,7 +63,7 @@ We ❤️ contributors!
 
 ---
 
-## 📌 Community Guidelines
+## Community Guidelines
 
 - Be respectful and inclusive
 - Keep discussions constructive
@@ -74,7 +72,7 @@ We ❤️ contributors!
 
 ---
 
-## 🌐 Connect With VueVerse
+## Connect With VueVerse
 
 - 🔗 LinkedIn: https://www.linkedin.com/company/vueversehyderabad/
 - 🌐 Company Website: https://vueverse.in/
@@ -83,7 +81,7 @@ We ❤️ contributors!
 
 ---
 
-## 🧠 Maintained By
+## Maintained By
 
 **VueVerse Community**  
 Founded by **Revanth Kumar Patha**
@@ -93,6 +91,6 @@ Founded by **Revanth Kumar Patha**
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the **MIT License**.
